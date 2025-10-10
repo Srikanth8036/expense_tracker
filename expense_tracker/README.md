@@ -72,17 +72,6 @@ monthly: October is total expenses are 1250
 | `display_method()`     | Displays CLI options                         |
 | `flow_func()`          | Handles main program flow                    |
 
-Future Enhancements
-
-Add formatted table output using tabulate
-
-Add date range filters
-
-Visualize expenses using matplotlib
-
-Export reports to PDF
-
-Convert into a FastAPI backend in future
 
 
 
