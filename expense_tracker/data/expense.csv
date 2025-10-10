@@ -1,0 +1,23 @@
+date,Category,Description,Amount
+October: 10 2025,food,lunch,150
+October: 12 2025,travel,metro ticket,60
+October: 14 2025,entertainment,movie,250
+November: 5 2025,food,dinner,200
+November: 15 2025,travel,bus fare,100
+November: 18 2025,shopping,clothes,1200
+December: 2 2025,food,breakfast,90
+December: 20 2025,entertainment,concert,1500
+January: 10 2025,food,restaurant,500
+January: 15 2025,travel,flight,4000
+February: 1 2025,shopping,gadgets,2500
+February: 12 2025,food,grocery,800
+March: 5 2025,entertainment,netflix,499
+March: 25 2025,travel,train ticket,350
+April: 10 2025,shopping,shoes,1800
+May: 2 2025,food,coffee,120
+May: 15 2025,travel,petrol,700
+June: 1 2025,entertainment,cricket match,900
+July: 5 2025,shopping,gift,450
+August: 20 2025,food,snacks,80
+October: 10 2025,food_adda,adda,150
+October: 10 2025,veggies,"milk,curd,",300
