@@ -1,0 +1,62 @@
+# ------------------------------
+# 🔹 Python & Bytecode Files
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ------------------------------
+# 🔹 Virtual Environments
+# ------------------------------
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+pip-wheel-metadata/
+*.egg-info/
+build/
+dist/
+
+# ------------------------------
+# 🔹 Logs & Reports
+# ------------------------------
+*.log
+email_automation.log
+report.txt
+
+# ------------------------------
+# 🔹 Config Files (Sensitive)
+# ------------------------------
+config/email_config.json
+*.env
+secrets.json
+
+# ------------------------------
+# 🔹 OS & Editor Junk
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ------------------------------
+# 🔹 Cache & Temp
+# ------------------------------
+__pycache__/
+*.tmp
+*.bak
+*.old
+.cache/
+.pytest_cache/
+
+# ------------------------------
+# 🔹 Misc
+# ------------------------------
+# Ignore test output or generated files
+output/
+debug/
