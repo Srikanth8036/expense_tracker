@@ -1,2 +1,4 @@
-# logs files 
-*.logs
+# Ignore contents of the logs directory but keep a placeholder log file tracked in the repo
+logs/*
+!logs/.gitkeep
+!logs/csv_analyzers.log
