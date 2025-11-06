@@ -1,0 +1,21 @@
+,Date,Product,Category,Quantity,Price,Total_Sale
+0,2025-09-01,Wireless Mouse,Electronics,3,450,1350
+1,2025-09-02,Keyboard,Electronics,2,700,1400
+2,2025-09-03,Notebook,Stationery,5,80,400
+3,2025-09-04,Pen,Stationery,10,20,200
+4,2025-09-05,Headphones,Electronics,1,1200,1200
+5,2025-09-06,Water Bottle,Home,4,150,600
+6,2025-09-07,Charger,Electronics,2,600,1200
+7,2025-09-08,T-Shirt,Fashion,3,500,1500
+8,2025-09-09,Jeans,Fashion,2,1500,3000
+9,2025-09-10,Notebook,Stationery,7,80,560
+10,2025-09-11,Pen,Stationery,12,20,240
+11,2025-09-12,Headphones,Electronics,1,1100,1100
+12,2025-09-13,Mouse Pad,Electronics,4,100,400
+13,2025-09-14,Table Lamp,Home,2,800,1600
+14,2025-09-15,Shirt,Fashion,2,900,1800
+15,2025-09-16,Socks,Fashion,5,150,750
+16,2025-09-17,Notebook,Stationery,10,80,800
+17,2025-09-18,Water Bottle,Home,3,150,450
+18,2025-09-19,Pen,Stationery,20,20,400
+19,2025-09-20,Keyboard,Electronics,1,700,700
